@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Tradutor de Página",
+    "version": "1.0",
+    "description": "Translate the current page content",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+
